@@ -1,2 +1,1 @@
-# orthodox
-this is for personal stuff
+# Elephant cookbook
